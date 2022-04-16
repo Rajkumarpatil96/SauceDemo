@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2022-04-16T12:46:37 IST" name="Suite" finished-at="2022-04-16T12:46:41 IST" duration-ms="4331">
+    <groups>
+    </groups>
+    <test started-at="2022-04-16T12:46:37 IST" name="Test" finished-at="2022-04-16T12:46:41 IST" duration-ms="4331">
+      <class name="saucedemotest.NewTest1">
+        <test-method is-config="true" signature="Browserlounch()[pri:0, instance:saucedemotest.NewTest1@747ddf94]" started-at="2022-04-16T12:46:37 IST" name="Browserlounch" finished-at="2022-04-16T12:46:41 IST" duration-ms="3475" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Browserlounch -->
+        <test-method is-config="true" signature="LoginSouce()[pri:0, instance:saucedemotest.NewTest1@747ddf94]" started-at="2022-04-16T12:46:41 IST" name="LoginSouce" finished-at="2022-04-16T12:46:41 IST" duration-ms="255" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- LoginSouce -->
+        <test-method signature="valiadtecart()[pri:0, instance:saucedemotest.NewTest1@747ddf94]" started-at="2022-04-16T12:46:41 IST" name="valiadtecart" finished-at="2022-04-16T12:46:41 IST" duration-ms="415" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- valiadtecart -->
+        <test-method is-config="true" signature="logOut()[pri:0, instance:saucedemotest.NewTest1@747ddf94]" started-at="2022-04-16T12:46:41 IST" name="logOut" finished-at="2022-04-16T12:46:41 IST" duration-ms="150" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- logOut -->
+      </class> <!-- saucedemotest.NewTest1 -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
